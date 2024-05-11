@@ -1,7 +1,7 @@
 # Variáveis
 CXX = g++
 CXXFLAGS = 
-SRCS = alloc.cpp disciplina.cpp cromossomo.cpp professor.cpp sala.cpp
+SRCS = src/alloc.cpp src/disciplina.cpp src/cromossomo.cpp src/professor.cpp src/sala.cpp
 TARGET = output
 
 # Regra padrão
