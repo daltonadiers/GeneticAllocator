@@ -29,6 +29,5 @@ public:
         s.push_back(Sala(5,25));
         s.push_back(Sala(6,32));
     }
-    private:
-        
+    
 };
